@@ -12,8 +12,8 @@
 
 * **Request Params**
 
-  username=[string]
-  token=[string]
+  username=[string] <br />
+  token=[string] <br />
   productid=[integer]
   
 * **Sample Request:**
