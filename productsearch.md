@@ -13,31 +13,45 @@
 * **Data Params**
 
   None
+  
+* **Sample Request:**
+
+  ```json
+    {
+      "username": "username",
+      "token": "password",
+      "servicerequest": {
+        "category": "Tour"
+      },
+      "hidepricing": false,
+      "start": 0,
+      "records": 10
+    }
+  ```
 
 * **Success Response:**
 
-  * **Code:** 200 <br />
-    **Content:** `{ id : 12, name : "ggg" }`
+  ```json
+    {
+      "username": "username",
+      "token": "password",
+      "servicerequest": {
+        "category": "Tour"
+      },
+      "hidepricing": false,
+      "start": 0,
+      "records": 10
+    }
+  ```
  
 * **Error Response:**
 
   * **Code:** 404 NOT FOUND <br />
-    **Content:** `{ error : "User doesn't exist" }`
+    **Content:** `{ error : "No products returned!" }`
 
   OR
 
   * **Code:** 401 UNAUTHORIZED <br />
     **Content:** `{ error : "You are unauthorized to make this request." }`
 
-* **Sample Call:**
 
-  ```json
-    $.ajax({
-      url: "/users/1",
-      dataType: "json",
-      type : "GET",
-      success : function(r) {
-        console.log(r);
-      }
-    });
-  ```
