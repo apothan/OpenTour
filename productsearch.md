@@ -33,14 +33,19 @@
 
   ```json
     {
-      "username": "username",
-      "token": "password",
-      "servicerequest": {
-        "category": "Tour"
-      },
-      "hidepricing": false,
-      "start": 0,
-      "records": 10
+      "products": {
+        11: {
+          "productid": 11,
+          "category": "Tour",
+          "servicename": "Tour oF Italy",
+          "city": "YYZ",
+          "tourdate": "2021-01-29T00:00:00-05:00",
+          "duration": 12,
+          "quantity": 1,
+          "lowsell": "3519.00"
+        },
+      "terms": "Your terms and conditions",
+      "rows": 1
     }
   ```
  
