@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Services
 
-[Product Search](https://github.com/apothan/OpenTour/productsearch.md)
+[Product Search](productsearch.md)
 
 ### Support or Contact
 
