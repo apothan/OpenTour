@@ -37,8 +37,8 @@
         11: {
           "productid": 11,
           "category": "Tour",
-          "servicename": "Tour oF Italy",
-          "city": "YYZ",
+          "servicename": "Tour of Italy",
+          "city": "Rome",
           "tourdate": "2021-01-29T00:00:00-05:00",
           "duration": 12,
           "quantity": 1,
