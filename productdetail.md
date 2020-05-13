@@ -10,9 +10,11 @@
 
   `POST`
 
-* **Data Params**
+* **Request Params**
 
-  None
+  username=[string]
+  token=[string]
+  productid=[integer]
   
 * **Sample Request:**
 
