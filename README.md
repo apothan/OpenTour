@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Services
 
-[Product Search](productsearch.md)
+[api/productsearch.json](productsearch.md)
 
 ### Support or Contact
 
