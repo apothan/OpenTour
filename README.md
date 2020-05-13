@@ -10,6 +10,8 @@ The travel industry has so many different apis that to integrate to a new vendor
 
 [api/productdetail.json](productdetail.md)
 
+[api/bookingcreate.json](bookingcreate.md)
+
 ### Support or Contact
 
 If you or your company are interested in implementing the OpenTour API please reach out to info@opentour.tech
