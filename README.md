@@ -1,8 +1,8 @@
 ## Welcome to the OpenTour
 
-You can use the [editor on GitHub](https://github.com/apothan/OpenTour/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+We are trying to create an open and free to use api that can be used by any travel company or software rpovider to connect to their vendors and customers.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The travel industry has so many different apis that to integrate to a new vendor it is very expensive to accomplish. We are trying to create a protocol that is easy to implement and make it easy to connect to as many of your business partners as possible.
 
 ### Services
 
