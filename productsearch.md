@@ -12,7 +12,9 @@
 
 * **Data Params**
 
-  None
+  username=[string] <br />
+  token=[string] <br />
+  category=['Tour','Accommodation','Excursion','Transfer','CarRental','Air','Insurance']
   
 * **Sample Request:**
 
