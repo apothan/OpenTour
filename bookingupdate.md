@@ -4,7 +4,7 @@
 
 * **URL**
 
-  /api/productupdate.json
+  /api/bookingupdate.json
 
 * **Method:**
 
