@@ -14,7 +14,9 @@
 
   username=[string] <br />
   token=[string] <br />
-  category=['Tour','Accommodation','Excursion','Transfer','CarRental','Air','Insurance']
+  category=['Tour','Accommodation','Excursion','Transfer','CarRental','Air','Insurance'] <br />
+  start=[integer] <br />
+  records=[integer]
   
 * **Sample Request:**
 
@@ -25,7 +27,6 @@
       "servicerequest": {
         "category": "Tour"
       },
-      "hidepricing": false,
       "start": 0,
       "records": 10
     }
@@ -35,17 +36,16 @@
 
   ```json
     {
-      "products": {
-        11: {
-          "productid": 11,
+      "products": [
+        {
+          "id": 11,
           "category": "Tour",
-          "servicename": "Tour of Italy",
+          "name": "Tour of Italy",
           "city": "Rome",
           "tourdate": "2021-01-29T00:00:00-05:00",
-          "duration": 12,
-          "quantity": 1,
-          "lowsell": "3519.00"
-        },
+          "nights": 12
+        }
+      ],
       "terms": "Your terms and conditions",
       "rows": 1
     }
