@@ -32,8 +32,8 @@
     {
       "productid": 11,
       "name": "Tour of Italy",
-      "family": "Tour",
-      "duration": 9,
+      "category": "Tour",
+      "nights": 9,
       "lat": "0.000000",
       "lng": "0.000000",
       "country": "IT",
