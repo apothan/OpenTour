@@ -25,6 +25,12 @@
       "productid": "11"
     }
   ```
+  
+* **Response Params**
+
+  name=[string] <br />
+  category=[string] <br />
+  nights=[integer]
 
 * **Success Response:**
 
