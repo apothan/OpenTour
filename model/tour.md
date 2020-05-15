@@ -4,7 +4,7 @@
   ```json
     {
       "id": Integer,
-      "category": "Accommodation",
+      "category": "Tour",
       "name": String
     }
   ```
