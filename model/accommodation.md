@@ -76,5 +76,6 @@
           "pricing": ["PP", "PS"]
         },
       ],
+      "terms": "String"
     }
   ```
