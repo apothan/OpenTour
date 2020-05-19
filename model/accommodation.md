@@ -11,6 +11,12 @@
       "city": String,
       "province": String,
       "country": String,
-      "postalcode": String
+      "postalcode": String,
+      "categories": [
+        {
+          "code" : "DBL", 
+          "name" : "Double"
+        },
+      ]
     }
   ```
