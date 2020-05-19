@@ -20,7 +20,7 @@
           "max": "Integer",
           "pricing": ["PP", "PS"]
         },
-      ]
+      ],
       "sell_date_breaks": [
         {
           "start": "DateTime",
