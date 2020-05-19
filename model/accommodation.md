@@ -68,13 +68,13 @@
         },
       ],
       "minimum_nights_breaks": [
-      {
-        "start": "DateTime",
-        "end": "DateTime",
-        "min": "Integer",
-        "max": "Integer",
-        "pricing": ["PP", "PS"]
-      },
-    ],
+        {
+          "start": "DateTime",
+          "end": "DateTime",
+          "min": "Integer",
+          "max": "Integer",
+          "pricing": ["PP", "PS"]
+        },
+      ],
     }
   ```
