@@ -3,7 +3,7 @@
 
   ```json
     {
-      "id": Integer,
+      "id": "Integer",
       "category": "Excursion",
       "name": "String",
       "categories": [
