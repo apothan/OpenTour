@@ -71,6 +71,14 @@
         {
           "description": "String"
         },
-      ]
+      ],
+      "coordinates": [
+        {
+          "coorx": "Float",
+          "coory": "Float",
+          "city": "String"
+        }
+      ],
+      "terms": "String"
     }
   ```
