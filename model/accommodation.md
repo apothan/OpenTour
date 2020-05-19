@@ -26,13 +26,13 @@
           "start": "DateTime",
           "end": "DateTime",
           "days": {
-            "mon": "boolean",
-            "tue": "boolean",
-            "wed": "boolean",
-            "thu": "boolean",
-            "fri": "boolean",
-            "sat": "boolean",
-            "sun": "boolean"
+            "mon": "Boolean",
+            "tue": "Boolean",
+            "wed": "Boolean",
+            "thu": "Boolean",
+            "fri": "Boolean",
+            "sat": "Boolean",
+            "sun": "Boolean"
           },
           "categories": [
             {
@@ -49,13 +49,13 @@
           "start": "DateTime",
           "end": "DateTime",
           "days": {
-            "mon": "boolean",
-            "tue": "boolean",
-            "wed": "boolean",
-            "thu": "boolean",
-            "fri": "boolean",
-            "sat": "boolean",
-            "sun": "boolean"
+            "mon": "Boolean",
+            "tue": "Boolean",
+            "wed": "Boolean",
+            "thu": "Boolean",
+            "fri": "Boolean",
+            "sat": "Boolean",
+            "sun": "Boolean"
           },
           "categories": [
             {
@@ -66,6 +66,15 @@
             }
           ]
         },
-      ]
+      ],
+      "minimum_nights_breaks": [
+      {
+        "start": "DateTime",
+        "end": "DateTime",
+        "min": "Integer",
+        "max": "Integer",
+        "pricing": ["PP", "PS"]
+      },
+    ],
     }
   ```
