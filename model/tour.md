@@ -6,6 +6,7 @@
       "id": "Integer",
       "category": "Tour",
       "name": "String",
+      "description": "String",
       "categories": [
         {
           "code": "String", 
