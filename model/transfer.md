@@ -6,6 +6,7 @@
       "id": "Integer",
       "category": "Transfer",
       "name": "String",
+      "description": "String",
       "categories": [
         {
           "code": "String", 
