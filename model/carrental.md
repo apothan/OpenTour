@@ -5,6 +5,7 @@
     {
       "id": Integer,
       "category": "CarRental",
-      "name": String
+      "name": "String",
+      "description": "String"
     }
   ```
