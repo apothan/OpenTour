@@ -6,6 +6,7 @@
       "id": "Integer",
       "category": "Excursion",
       "name": "String",
+      "description": "String",
       "categories": [
         {
           "code": "String", 
