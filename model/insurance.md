@@ -5,6 +5,7 @@
     {
       "id": Integer,
       "category": "Insurance",
-      "name": String
+      "name": "String",
+      "description": "String"
     }
   ```
