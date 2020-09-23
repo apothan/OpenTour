@@ -6,6 +6,7 @@
       "id": "Integer",
       "category": "Accommodation",
       "name": "String",
+      "description": "String",
       "address": "String",
       "address2": "String",
       "city": "String",
