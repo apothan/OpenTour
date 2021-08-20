@@ -1,4 +1,4 @@
-## Welcome to the OpenTour
+## Welcome to OpenTour
 
 We are creating an open and free to use API that can be used by any travel company or software provider to connect their vendors and customers.
 
