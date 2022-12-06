@@ -4,7 +4,7 @@ We are creating an open and free to use API that can be used by any travel compa
 
 The travel industry has so many different APIs that to integrate to a new vendor it is very expensive to accomplish. We are creating a protocol that is easy to implement and make it easy to connect to as many of your business partners as possible.
 
-We have created a website with built in CMA that implements any software the uses the OpenTour format
+We have created a website with built in Symfony/PHP that implements any software the uses the OpenTour format
 https://github.com/apothan/open-tour-website
 
 ### Services
